@@ -1,4 +1,0 @@
-{ "name": "Master Chibeze Joseph Nwangwu",
-"title": "pillars of inverse attrition",
-"include": "yes"
-}
